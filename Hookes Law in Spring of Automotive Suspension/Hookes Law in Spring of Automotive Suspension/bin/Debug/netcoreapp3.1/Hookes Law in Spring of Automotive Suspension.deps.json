@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Hookes Law in Spring of Automotive Suspension/1.0.0": {
+        "runtime": {
+          "Hookes Law in Spring of Automotive Suspension.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hookes Law in Spring of Automotive Suspension/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
